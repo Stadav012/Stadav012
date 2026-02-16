@@ -1,10 +1,10 @@
 <!-- Header Wave Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Stadav012&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Developer%20%7C%20Creator%20%7C%20Innovator&descSize=20&descAlignY=55&animation=fadeIn" />
 
-<!-- Animated Typing SVG -->
+<!-- Animated Typing SVG — plays once then stays -->
 <p align="center">
   <a href="https://github.com/Stadav012">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=700&height=45&lines=I+code+for+fun+and+use+AI+for+efficiency+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=999999&color=00D4FF&center=true&vCenter=true&repeat=false&width=620&height=40&lines=I+code+for+fun+and+use+AI+for+efficiency..." alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,29 +12,25 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- About Me Section -->
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  About Me
-</h2>
+<h2>▸ About Me</h2>
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```yaml
-name: Stanley T Ndlovu
-located_in: Planet Earth 🌍
-current_focus: Automated sorting & fermentation for cocoa farmers 🍫
-learning: Svelte & GradCAM 🧠
-hobbies: ["Coding", "Music Production", "Open Source"]
-fun_fact: "I make beats when I'm not making commits 🎹"
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  > name:      Stanley T Ndlovu                          │
+│  > focus:     Automated sorting & fermentation           │
+│               system for cocoa farmers 🍫               │
+│  > learning:  Svelte · GradCAM                          │
+│  > hobby:     Music Producer 🎵                         │
+│                                                         │
+│  "I make beats when I'm not making commits."            │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
-<br/>
-
-- 🔭 I'm currently working on **an automated sorting and fermentation system for cocoa farmers**
-- 🌱 I'm currently learning **Svelte and GradCAM**
-- ⚡ Fun fact: **I am a music producer!** 🎵 Check out my music on [YouTube](https://www.youtube.com/@stanleyndlovu)
-
-<br clear="both"/>
+<p align="center">
+  <a href="https://www.youtube.com/@stanleyndlovu">🎧 <b>Listen to my music →</b></a>
+</p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -140,5 +136,5 @@ fun_fact: "I make beats when I'm not making commits 🎹"
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00d4ff,100:0d1117&height=120&section=footer" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=7B2FF7&center=true&vCenter=true&repeat=true&width=435&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%A4%9D+Let's+build+something+amazing+together!" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2000&pause=999999&color=7B2FF7&center=true&vCenter=true&repeat=false&width=500&height=30&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!" alt="Footer Typing SVG" />
 </p>
