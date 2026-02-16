@@ -72,23 +72,46 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Trophies — only show earned, 4 per row, compact -->
-<h2>▸ Trophies</h2>
+<!-- Top Projects — retro arcade style -->
+<h2>▸ Top Projects</h2>
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    🕹️  SELECT YOUR GAME  🕹️                     ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  [1] 🌐 WebsPortifolio ·········· Svelte      ··· PORTFOLIO     ║
+║  [2] 📚 Llabus ·················· Svelte      ··· AI/EDUCATION  ║
+║  [3] 🔊 Echo ···················· TypeScript  ··· AUDIO APP     ║
+║  [4] 👻 Invisi ·················· TypeScript  ··· STEALTH APP   ║
+║  [5] 🎵 WebsMusicOS ············· JavaScript  ··· MUSIC OS      ║
+║  [6] 🎧 Djing--hobby ··········· TypeScript  ··· DJ SYSTEM     ║
+║  [7] ✨ Glow ···················· JavaScript  ··· UI PROJECT    ║
+║  [8] 🦏 rhinovate ··············· TypeScript  ··· INNOVATION    ║
+║                                                                  ║
+║                      INSERT COIN TO PLAY                         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
-  <a href="https://github.com/Stadav012">
-    <img src="https://github-trophies.vercel.app/?username=Stadav012&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-C,-B,-?" />
-  </a>
+  <a href="https://github.com/Stadav012/WebsPortifolio"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Stadav012&repo=WebsPortifolio&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&hide_border=true" width="45%" /></a>
+  &nbsp;
+  <a href="https://github.com/Stadav012/Llabus"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Stadav012&repo=Llabus&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&hide_border=true" width="45%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Stadav012/Echo"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Stadav012&repo=Echo&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&hide_border=true" width="45%" /></a>
+  &nbsp;
+  <a href="https://github.com/Stadav012/Invisi"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Stadav012&repo=Invisi&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&hide_border=true" width="45%" /></a>
 </p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Random Dev Quote — vertical card, not stretched -->
+<!-- Random Dev Quote — compact -->
 <h2>▸ Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true" width="400" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="350" />
 </p>
 
 <!-- Animated Divider -->
