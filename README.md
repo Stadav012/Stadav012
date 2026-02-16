@@ -4,7 +4,7 @@
 <!-- Animated Typing SVG -->
 <p align="center">
   <a href="https://github.com/Stadav012">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=50&lines=I+code+for+fun+and+use+AI+for+efficiency+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=700&height=45&lines=I+code+for+fun+and+use+AI+for+efficiency+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -54,17 +54,15 @@ fun_fact: "I make beats when I'm not making commits 🎹"
 <!-- GitHub Stats Section -->
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <a href="https://github.com/Stadav012">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Stadav012&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&ring_color=00d4ff&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stadav012&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
-  </a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Stadav012&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&ring_color=00d4ff&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stadav012&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" />
+</div>
 
 <!-- Streak Stats -->
 <p align="center">
   <a href="https://github.com/Stadav012">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stadav012&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2ff7&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
+    <img src="https://streak-stats.demolab.com/?user=Stadav012&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2ff7&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=555555" />
   </a>
 </p>
 
@@ -83,7 +81,7 @@ fun_fact: "I make beats when I'm not making commits 🎹"
 
 <p align="center">
   <a href="https://github.com/Stadav012">
-    <img src="https://github-profile-trophy.vercel.app/?username=Stadav012&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <img src="https://github-trophies.vercel.app/?username=Stadav012&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
   </a>
 </p>
 
