@@ -4,7 +4,7 @@
 <!-- Animated Typing SVG -->
 <p align="center">
   <a href="https://github.com/Stadav012">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%9A%80+Welcome+to+my+digital+playground!;%F0%9F%92%A1+Turning+ideas+into+reality;%F0%9F%8C%9F+Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=50&lines=I+code+for+fun+and+use+AI+for+efficiency+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```yaml
-name: Stadav012
+name: Stanley T Ndlovu
 located_in: Planet Earth 🌍
 current_focus: Automated sorting & fermentation for cocoa farmers 🍫
 learning: Svelte & GradCAM 🧠
