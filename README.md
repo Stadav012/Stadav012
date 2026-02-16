@@ -72,23 +72,23 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Trophies -->
-<h2>🏆 GitHub Trophies</h2>
+<!-- Trophies — only show earned, 4 per row, compact -->
+<h2>▸ Trophies</h2>
 
 <p align="center">
   <a href="https://github.com/Stadav012">
-    <img src="https://github-trophies.vercel.app/?username=Stadav012&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <img src="https://github-trophies.vercel.app/?username=Stadav012&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-C,-B,-?" />
   </a>
 </p>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- Random Dev Quote -->
-<h2>✍️ Random Dev Quote</h2>
+<!-- Random Dev Quote — vertical card, not stretched -->
+<h2>▸ Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true" width="400" />
 </p>
 
 <!-- Animated Divider -->
