@@ -81,7 +81,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- GitHub Stats Section -->
-<h2>📊 GitHub Stats</h2>
+<h2> GitHub Stats</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Stadav012&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2ff7&text_color=c9d1d9&ring_color=00d4ff&count_private=true" />
